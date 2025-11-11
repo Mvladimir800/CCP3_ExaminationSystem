@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FacultyDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminDasboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ExamForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ExamHistoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GradingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuestionBankForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuestionEditorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RandomQuestionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReportingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudentExamChoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudentManagementForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegistrationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudentDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudentPerformance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudentScore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserManagementForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
